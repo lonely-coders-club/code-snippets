@@ -1,0 +1,1 @@
+# Information generating code snippets
