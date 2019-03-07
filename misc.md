@@ -12,3 +12,7 @@
 ## Start local server
 **Terminal**
 {% gist 5c8a6c16c04960303d53159f7af2719c %}
+
+## Video to Gif
+**Terminal**
+{% gist d7e16a6d85476a101762969c17220486 %}
