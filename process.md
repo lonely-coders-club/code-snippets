@@ -23,4 +23,9 @@
 **R**
 {% gist 94ef12eb1c3dd1fba4e11f77409b8429 %}
 
+## Slice multiple, similar census files
+
+**Python**
+{% gist 5d8c43f8d8b90a1ebf12781adf9d4cb9 %}
+
 
