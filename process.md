@@ -1,9 +1,7 @@
 # File processing code snippets
     
 ## Combine .csv files
-  
-### Terminal
-    
+      
 ### Python/Vanilla
 {% gist f5e1a540a07de0d462d046e8796008b1 %}
     
