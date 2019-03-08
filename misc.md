@@ -1,4 +1,5 @@
 {% include nav.md %}
+
 # Miscellaneous code snippets
 
 ## Reload environment variable
