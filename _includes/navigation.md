@@ -1,2 +1,7 @@
-
-[Home]({{site.baseurl}}/)  [Processing Snippets]({{site.baseurl}}/process.md)  [Scraping Snippets]({{site.baseurl}}/scrape.md)  [Information Snippets]({{site.baseurl}}/information.md)  [Misc Snippets]({{site.baseurl}}/misc.md)
+<nav>
+    [Home]({{site.baseurl}}/)
+    [Processing Snippets]({{site.baseurl}}/process.md)
+    [Scraping Snippets]({{site.baseurl}}/scrape.md)
+    [Information Snippets]({{site.baseurl}}/information.md)
+    [Misc Snippets]({{site.baseurl}}/misc.md)
+</nav>
