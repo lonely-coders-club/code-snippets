@@ -1,4 +1,5 @@
-{% include nav.html %}
+{% include nav.md %}
+
 # Web scraping code snippets
 
 ## Scrape webpages that operate on a delayed load
