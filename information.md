@@ -1,3 +1,4 @@
+{% include nav.html %}
 # Information generating code snippets
 
 ## Get geo file metadata
