@@ -1,5 +1,5 @@
 {% include nav.md %}
-pie
+
 # Information generating code snippets
 
 ## Get geo file metadata
