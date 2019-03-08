@@ -16,3 +16,7 @@
 ## Video to Gif
 **Terminal**
 {% gist d7e16a6d85476a101762969c17220486 %}
+
+## Start a virtual environment with python3
+**Terminal**
+{% gist 21a400d8556760c9a3652403a35f8696 %}
