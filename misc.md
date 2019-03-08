@@ -1,4 +1,4 @@
-{% include nav.html %}
+{% include nav.md %}
 # Miscellaneous code snippets
 
 ## Reload environment variable
