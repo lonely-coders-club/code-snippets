@@ -1,5 +1,3 @@
-{% include nav.md %}
-
 # Information generating code snippets
 
 ## Get geo file metadata

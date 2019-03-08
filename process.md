@@ -1,5 +1,3 @@
-{% include nav.md %}
-
 # File processing code snippets
     
 
