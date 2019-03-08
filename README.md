@@ -4,5 +4,5 @@ The Lonely Coder's Club, a Slack community of newsroom programmers without big t
 
 Contributions, edits and additions are encouraged. 
 
-NICAR 2019 project presentation: http://dhmontgomery.com/files/lccsnippets.html
+NICAR 2019 project presentation: [http://dhmontgomery.com/files/lccsnippets.html](http://dhmontgomery.com/files/lccsnippets.html)
 
