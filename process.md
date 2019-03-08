@@ -23,10 +23,13 @@
 **R**
 {% gist 94ef12eb1c3dd1fba4e11f77409b8429 %}
 
-## Slice multiple, similar census files
+## Batch rename columns from key (e.g. Census)
 
 **Python**
 {% gist 5d8c43f8d8b90a1ebf12781adf9d4cb9 %}
+
+**R**
+{% gist 526498c60fa54dcef085a8041e8d5fb5 %}
 
 ## Convert geo files
 
