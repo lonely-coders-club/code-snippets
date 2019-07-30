@@ -8,9 +8,12 @@
     
 **Python/Pandas**
 {% gist 153898dcc74c7bbd593caa41243a37e5 %}
-    
-**R**
 
+**R/tidyverse**
+{% gist 04a5bf2d7e3096566acb7e53cb7edf45 %}
+
+**R/data.table**
+{% gist a19435810f959652e4deef0728b49576 %}
 
 ## Lowercase all files in a directory
 
